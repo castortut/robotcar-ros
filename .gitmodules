@@ -1,0 +1,6 @@
+[submodule "lib/ros-pwm-pca9685"]
+	path = lib/ros-pwm-pca9685
+	url = https://github.com/dheera/ros-pwm-pca9685
+[submodule "workspace/src/ros-pwm-pca9685"]
+	path = workspace/src/ros-pwm-pca9685
+	url = https://github.com/dheera/ros-pwm-pca9685
